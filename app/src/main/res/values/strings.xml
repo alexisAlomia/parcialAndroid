@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parcial Android</string>
+    <string name="title_activity_lista_actividades">Listado de actividades</string>
+
+    <string name="facebook_app_id">1764196977216203</string>
+    <string name="fb_login_protocol_scheme">fb1764196977216203</string>
+</resources>
