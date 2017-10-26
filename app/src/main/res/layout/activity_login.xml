@@ -116,6 +116,13 @@
         android:textColor="@color/com_facebook_button_background_color_focused"/>
         </LinearLayout>
 
+    <TextView
+        android:text="¿Olvidó su contraseña?"
+        android:textSize="50px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/contrasenaOlvidada" />
+
 
 </LinearLayout>
     </LinearLayout>
